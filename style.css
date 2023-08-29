@@ -92,7 +92,7 @@ body {
 }
 
 button .icon-cart {
-    background: url('/images/icon-cart.svg');
+    background: url('images/icon-cart.svg');
     background-repeat: no-repeat;
     background-position: center;
     
